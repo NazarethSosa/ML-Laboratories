@@ -1,2 +1,2 @@
-# ML-Laboratories
-Laboratories from ML classes
+# ML-Laboratorie
+Laboratorie 1 from ML classes
